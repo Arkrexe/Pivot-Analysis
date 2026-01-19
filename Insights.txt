@@ -1,0 +1,5 @@
+1. Technology is the highest revenue-generating category, contributing the most to total sales.
+2. Furniture and Office Supplies follow Technology, indicating diversified sales across categories.
+3. Sales performance varies across regions, showing uneven regional contribution.
+4. The Consumer segment contributes more to total sales compared to Corporate and Home Office segments.
+5. Profit margin analysis was not performed because the dataset does not include profit values.
