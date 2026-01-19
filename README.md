@@ -1,2 +1,4 @@
-# Pivot-Analysis
-An Excel-based sales analysis project using pivot tables to summarize category-wise and region-wise sales performance. Interactive slicers and pivot charts were used for visualization, and key insights were documented to support data-driven decision-making.
+This project demonstrates Excel pivot table analysis using a sales dataset.
+Pivot tables were created to analyze sales by category, region, and segment.
+Slicers and pivot charts were used for interactivity and visualization.
+Profit margin analysis was not included due to absence of profit data.
